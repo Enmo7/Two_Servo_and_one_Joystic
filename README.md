@@ -1,3 +1,3 @@
 # Two_Servo_and_one_Joystic
 
-Controlling two motors with Arduino and JSTK
+Controlling two motors with Arduino uno and JSTK
